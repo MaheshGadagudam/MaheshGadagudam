@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MAHESH GADAGUDAM</h1>
-<h3 align="center">A passionate Full Stack Python & Java Developer from India</h3>
+<h3 align="center">A passionate Full Stack Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"&gt;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshgadagudam&label=Profile%20views&color=0e75b6&style=flat" alt="maheshgadagudam" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **Car Rental Management System**
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Ecommerce**
+- 👯 I’m looking to collaborate on **Software Industry**
 
-- 🤝 I’m looking for help with **Ecommerce**
 
-- 📝 I regularly write articles on [Python, Java, MySql, AI, MachineLearning](Python, Java, MySql, AI, MachineLearning)
 
-- 💬 Ask me about **Python, Java, AI, ML, Data Science**
+- 📝 I regularly write articles on [Java, MySql, AI, MachineLearning](Java, Python , MySql, AI, MachineLearning)
+
+- 💬 Ask me about **Java, Python, AI, ML, Data Science**
 
 - 📫 How to reach me **maheshgadagudam@gmail.com**
 
